@@ -4,4 +4,7 @@
 
 </div>
 
-<a rel="me" href="https://witter.cz/@imichall">Mastodon</a>
+<a rel="me" href="https://witter.cz/@imichall">
+  <img src="https://joinmastodon.org/logos/logo-purple.svg" alt="Mastodon">
+  Mastodon
+</a>
